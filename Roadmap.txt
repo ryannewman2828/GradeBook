@@ -1,0 +1,5 @@
+--------------------Roadmap--------------------
+
+- Add the ability to delete elements from the list view
+- Add testing
+- Add optimization to allow the app to have its file sorted

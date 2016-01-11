@@ -1,0 +1,8 @@
+--------------------Changelog--------------------
+
+Version: 1.0
+
+- Released app with
+	- The ability to add terms, classes and assignments
+	- The average calculated for terms and for classes
+	- Ability to rename the different terms, classes and assignments
